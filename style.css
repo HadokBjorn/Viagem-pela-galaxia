@@ -1,0 +1,21 @@
+body{
+  font-family: "Roboto Mono", monospace;
+  min-height: 854px;
+  background-image: url("/imagens/background-galaxy.gif");
+  background-size:cover;
+  background-repeat:no-repeat;
+    background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  padding-bottom: 20vh;
+}
+.navbar{
+  background-color:#111111;
+  color: white;
+  display: flex;
+  font-size:40px;
+}
+.foguete{
+  max-block-size: 80px;
+}
